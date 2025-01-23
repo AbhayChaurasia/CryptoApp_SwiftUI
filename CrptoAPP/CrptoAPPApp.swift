@@ -19,6 +19,7 @@ struct CrptoAPPApp: App {
                 HomeView()
                     .navigationBarHidden(true)
                 Text("hi")
+                Text("name")
             }
         }
     }
