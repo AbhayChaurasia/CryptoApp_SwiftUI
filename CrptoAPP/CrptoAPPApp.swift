@@ -15,8 +15,10 @@ struct CrptoAPPApp: App {
         WindowGroup {
            // ContentView()
             NavigationView {
+                
                 HomeView()
                     .navigationBarHidden(true)
+                Text("hi")
             }
         }
     }
