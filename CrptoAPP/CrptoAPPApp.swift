@@ -20,6 +20,7 @@ struct CrptoAPPApp: App {
                     .navigationBarHidden(true)
                 Text("hi")
                 Text("name")
+                Text("hi")
             }
         }
     }
