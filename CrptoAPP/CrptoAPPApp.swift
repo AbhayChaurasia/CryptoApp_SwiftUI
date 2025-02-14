@@ -21,7 +21,7 @@ struct CrptoAPPApp: App {
                 Text("hi")
                 Text("name")
                 Text("hi")
-                Text("welcome")
+                Text("welcome   to the new")
                 
             }
         }
